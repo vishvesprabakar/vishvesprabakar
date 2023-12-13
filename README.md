@@ -20,7 +20,7 @@ Hello🙂<br>🔭 I’m currently working on examination website for my company<
 
 
 
-## 🌐 Socials:
+## 🌐 Social profile:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishvesprabakar) 
 
 # 💻 Tech Stack:
