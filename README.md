@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello🙂<br>🔭 I’m currently working on examination website for my company<br>👯 I’m looking to collaborate on intresting website projects<br>🌱 I’m currently learning React.js
+Hello🙂<br>🔭 I’m currently working on examination website for my company<br>👯 I’m looking to collaborate on intresting projects<br>🌱 I’m currently learning React.js
 
 
 
