@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello🙂<br>
-🔭 IT Administrator skilled in system administration, networking, cloud computing (AWS, Azure), and IT support, with expertise in Windows & Linux servers, virtualization, and cybersecurity. <br> 
+<br>
+🔭Hello I am an IT Administrator skilled in system administration, networking, cloud computing (AWS, Azure), and IT support, with expertise in Windows & Linux servers, virtualization, and cybersecurity. <br> 
 I’m looking to collaborate on interesting projects<br>
 
 
