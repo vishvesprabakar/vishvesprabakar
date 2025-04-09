@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello🙂<br>🔭 I’m currently working as data analyst for my company<br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning Python for data analysis
+Hello🙂<br>
+🔭 IT Administrator skilled in system administration, networking, cloud computing (AWS, Azure), and IT support, with expertise in Windows & Linux servers, virtualization, and cybersecurity. <br> 
+I’m looking to collaborate on interesting projects<br>
+
 
 
 
